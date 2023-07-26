@@ -30,7 +30,6 @@ export default function PostDetails() {
       >
         {post.desc}
       </Card>
-      ;
     </div>
   );
 }
